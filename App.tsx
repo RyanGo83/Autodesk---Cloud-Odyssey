@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Header from './components/Header';
 import Timeline from './components/Timeline';
 import Modal from './components/Modal';
+import ShareButton from './ShareButton';
 import { DISCLAIMER } from './constants';
 import { TimelineItem } from './types';
 
@@ -45,6 +46,9 @@ const App: React.FC = () => {
           </div>
         </footer>
       </main>
+
+      {/* Floating Share Button — fixed across all pages */}
+      <ShareButton />
 
       <Modal 
         item={selectedItem} 
