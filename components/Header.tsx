@@ -1,6 +1,5 @@
 import React from 'react';
 import Countdown from './Countdown';
-import ShareButton from '../ShareButton';
 
 const Header: React.FC = () => {
   return (
@@ -16,11 +15,6 @@ const Header: React.FC = () => {
             </linearGradient>
           </defs>
         </svg>
-      </div>
-
-      {/* Share Button — top right */}
-      <div className="absolute top-6 right-6 z-20">
-        <ShareButton />
       </div>
 
       <div className="relative z-10 w-full max-w-5xl mx-auto flex flex-col items-center">
