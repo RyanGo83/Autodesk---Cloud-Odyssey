@@ -1,6 +1,6 @@
 # Autodesk: A Cloudy Odyssey
 
-(https://autodesk-cloud-odyssey.vercel.app/)
+View APP: https://autodesk-cloud-odyssey.vercel.app/
 
 An interactive timeline exploring the perpetual rebranding of Autodesk's cloud platforms, featuring a countdown to the next inevitable name change.
 
