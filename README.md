@@ -1,8 +1,8 @@
 # Autodesk: A Cloudy Odyssey
 
-[View app: Autodesk: A Cloudy Odyssey](https://ai.studio/apps/drive/1CbFPtZJsPWBl6am11gFS5EMrwiRIZJn9)
+[View app: Autodesk: A Cloudy Odyssey]([https://ai.studio/apps/drive/1CbFPtZJsPWBl6am11gFS5EMrwiRIZJn9](https://autodesk-cloud-odyssey.vercel.app/)
 
-A snarky interactive timeline exploring the perpetual rebranding of Autodesk's cloud platforms, featuring a countdown to the next inevitable name change.
+An interactive timeline exploring the perpetual rebranding of Autodesk's cloud platforms, featuring a countdown to the next inevitable name change.
 
 ## Run Locally
 
