@@ -1,6 +1,6 @@
 import React from 'react';
 import Countdown from './Countdown';
-import ShareButton from './ShareButton';
+import ShareButton from '../ShareButton';
 
 const Header: React.FC = () => {
   return (
