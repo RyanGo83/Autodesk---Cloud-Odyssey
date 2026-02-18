@@ -4,6 +4,9 @@ import Timeline from './components/Timeline';
 import Modal from './components/Modal';
 import { DISCLAIMER } from './constants';
 import { TimelineItem } from './types';
+import ShareButton from "./components/ShareButton";
+<ShareButton />
+
 
 const App: React.FC = () => {
   const [selectedItem, setSelectedItem] = useState<TimelineItem | null>(null);
